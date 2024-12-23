@@ -5,7 +5,7 @@ Welcome to my corner of GitHub!
 ---
 
 ### 🌟 About Me
-🎓Pursuing Masters in Computer Applications at Amrita Vishwa Vidyapeetham<br>🛜 currently working on web and mobile technologies, Ml<br>👨🏻‍💻 I'm Passionate about exploring technology and leveraging it to solve real-world problems,<br>🖥️ I love building innovative projects and learning new tools and frameworks.</h2>
+🎓Pursuing Masters in Computer Applications at Amrita Vishwa Vidyapeetham<br>🛜 currently working on web and mobile technologies, Ml<br>👨🏻‍💻 I'm Passionate about exploring technology and leveraging it to solve real-world problems,<br>🖥️ I love building innovative projects and learning new tools and frameworks.<br>🎮 When I’m not coding, you’ll find me gaming or geeking out about the latest tech.
 
 ###
 
@@ -119,16 +119,6 @@ Welcome to my corner of GitHub!
 </div>
 
 ###
-
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/output/github-snake.svg" />
-</picture>
-
-###
-
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
