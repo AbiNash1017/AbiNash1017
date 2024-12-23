@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋I'm Abinash <br>I am an Computer Science Grad with Masters at Passionate about exploring technology and leveraging it to solve real-world problems, I love building innovative projects and learning new tools and frameworks.</h2>
+# Hello World! 👋 I'm Abinash 🚀  
+
+Welcome to my corner of GitHub!  
+
+---
+
+### 🌟 About Me
+🎓Pursuing Masters in Computer Applications at Amrita Vishwa Vidyapeetham<br>🛜 currently working on web and mobile technologies, Ml<br>👨🏻‍💻 I'm Passionate about exploring technology and leveraging it to solve real-world problems,<br>🖥️ I love building innovative projects and learning new tools and frameworks.</h2>
 
 ###
 
@@ -11,7 +18,7 @@
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
-###
+### 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -23,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -74,8 +83,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
@@ -95,26 +102,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
 </div>
 
-###
+### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.instagram.com/abinash._.das/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
   <a href="abinash.das.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/abinash-das-614253214/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
   </a>
+  <a href="https://www.instagram.com/abinash._.das/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
+  </a>
+  <a href="http://discordapp.com/users/abinash5893" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
 </div>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/output/github-snake.svg" />
+</picture>
 
 ###
 
@@ -124,6 +135,3 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
