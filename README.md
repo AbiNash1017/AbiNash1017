@@ -122,8 +122,8 @@ Welcome to my corner of GitHub!
 
 <br clear="both">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017//blob/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017//blob/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/blob/output/snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/output/github-snake.svg" />
 </picture>
 
