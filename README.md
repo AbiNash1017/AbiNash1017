@@ -119,6 +119,19 @@ Welcome to my corner of GitHub!
 </div>
 
 ###
+<<<<<<< HEAD
+=======
+
+<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/blob/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbiNash1017/AbiNash1017/output/github-snake.svg" />
+</picture>
+
+###
+
+>>>>>>> 8849c0f746bc4fdf77f7aa99daa22261b4e04a0d
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
