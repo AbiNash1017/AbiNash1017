@@ -105,7 +105,7 @@ Welcome to my corner of GitHub!
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="abinash.das.dev@gmail.com" target="_blank">
+  <a href="mailto:abinash.das.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/abinash-das-614253214/" target="_blank">
