@@ -5,7 +5,7 @@ Welcome to my corner of GitHub!
 ---
 
 ### 🌟 About Me
-🎓Pursuing Masters in Computer Applications at Amrita Vishwa Vidyapeetham<br>🛜 currently working on web and mobile technologies, Ml<br>👨🏻‍💻 I'm Passionate about exploring technology and leveraging it to solve real-world problems,<br>🖥️ I love building innovative projects and learning new tools and frameworks.<br>🎮 When I’m not coding, you’ll find me gaming or geeking out about the latest tech.
+🎓Pursuing Masters in Computer Applications at Amrita Vishwa Vidyapeetham<br>🛜 currently working on Web & AI technologies<br>👨🏻‍💻 I'm Passionate and Committed to continuous learning and innovation<br>🖥️ I love building innovative Projects and Learning new tools and frameworks.<br>🎮 When I’m not coding, you’ll find me gaming or geeking out about the latest tech.
 
 ###
 
