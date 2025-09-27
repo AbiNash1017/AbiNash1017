@@ -101,7 +101,7 @@ Hey there! Welcome to my GitHub space!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
 </div>
 
-### 🤝 Let's See you in the matrix
+### 🤝 Let's see you in the matrix
 
 <div align="center">
   <a href="mailto:abinash.das.dev@gmail.com" target="_blank">
