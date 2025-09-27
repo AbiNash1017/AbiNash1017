@@ -1,11 +1,11 @@
 # Hello World! 👋 I'm Abinash 🚀  
 
-Welcome to my corner of GitHub!  
+Hey there! Welcome to my GitHub space!  
 
 ---
 
 ### 🌟 About Me
-🎓 Pursuing a Master's degree in Computer Applications at Amrita Vishwa Vidyapeetham, specializing in AI & Data Science<br>🛜 Give me the task, and I'll handle the tech stuff.<br>👨🏻‍💻 I'm super passionate and dedicated to always learning and trying new things!<br>🖥️ I'm all about building cool projects and trying out new tech!<br>🎮 When I'm not coding, you'll probably find me either gaming or talking about the newest tech!
+🎓 Pursuing a Master's degree in Computer Applications at Amrita Vishwa Vidyapeetham, specializing in AI & Data Science<br>🛜 Give me the task, and I'll handle the tech stuff.<br>👨🏻‍💻 I'm super passionate and dedicated to always learning and trying new things!<br>🖥️ I'm all about building cool projects and trying out new tech!<br>🎮 When I'm not coding, you'll probably find me gaming, binging anime, or talking about the newest tech!
 ###
 
 <div align="center">
