@@ -5,7 +5,7 @@ Hey there! Welcome to my GitHub space!
 ---
 
 ### 🌟 About Me
-🎓 Pursuing a Master's degree in Computer Applications at Amrita Vishwa Vidyapeetham, specializing in AI & Data Science<br>🛜 Give me the task, and I'll handle the tech stuff.<br>👨🏻‍💻 I'm super passionate and dedicated to always learning and trying new things!<br>🖥️ I'm all about building cool projects and trying out new tech!<br>🎮 When I'm not coding, you'll probably find me gaming, binging anime, or talking about the newest tech!
+🎓 Pursuing a Master's degree in Computer Applications at Amrita Vishwa Vidyapeetham, specializing in AI & Data Science.<br>🛜 Give me the task, and I'll handle the tech stuff.<br>👨🏻‍💻 I'm super passionate and dedicated to always learning and trying new things!<br>🖥️ I'm all about building cool projects and trying out new tech!<br>🎮 When I'm not coding, you'll probably find me gaming, binging anime, or talking about the newest tech!
 ###
 
 <div align="center">
@@ -101,7 +101,7 @@ Hey there! Welcome to my GitHub space!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
 </div>
 
-### 🤝 Let's Connect
+### 🤝 Let's See you in the matrix
 
 <div align="center">
   <a href="mailto:abinash.das.dev@gmail.com" target="_blank">
